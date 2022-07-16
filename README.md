@@ -1,5 +1,4 @@
 #create-reactjs
-
 How to run:
 Open two terminals
 Run the commands "cd backend" and "cd frontend"
